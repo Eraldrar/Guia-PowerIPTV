@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL: Canal 13 FHD">
+    <display-name lang="es">CL: Canal 13 FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL: TVN FHD">
+    <display-name lang="es">CL: TVN FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CNN Chile HD (CL)">
+    <display-name lang="es">CNN Chile HD (CL)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210214004500 -0300" stop="20210214014500 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210214014500 -0300" stop="20210214073000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20210214073000 -0300" stop="20210214080000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210214080000 -0300" stop="20210214090000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Ranki</title>
+  </programme>
+  <programme start="20210214090000 -0300" stop="20210214100000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20210214100000 -0300" stop="20210214110000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210214110000 -0300" stop="20210214130000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20210214130000 -0300" stop="20210214150000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210214150000 -0300" stop="20210214173000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">El Viaje más Largo</title>
+  </programme>
+  <programme start="20210214173000 -0300" stop="20210214184500 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">El transiberiano</title>
+  </programme>
+  <programme start="20210214184500 -0300" stop="20210214200000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210214200000 -0300" stop="20210214203000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20210214203000 -0300" stop="20210214210000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Canal 13</title>
+  </programme>
+  <programme start="20210214210000 -0300" stop="20210214222500 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210214222500 -0300" stop="20210214223000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210214223000 -0300" stop="20210214233000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Rubi</title>
+  </programme>
+  <programme start="20210214233000 -0300" stop="20210215003000 -0300" channel="CL: Canal 13 FHD">
+    <title lang="es">Los Carcamales</title>
+  </programme>
+  <programme start="20210214020000 -0300" stop="20210214021500 -0300" channel="CL: TVN FHD">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210214021500 -0300" stop="20210214070000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210214070000 -0300" stop="20210214073000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210214073000 -0300" stop="20210214083000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20210214083000 -0300" stop="20210214090000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Chile conectado 2020</title>
+  </programme>
+  <programme start="20210214090000 -0300" stop="20210214100000 -0300" channel="CL: TVN FHD">
+    <title lang="es">La Odisea La conquista del Amazonas</title>
+  </programme>
+  <programme start="20210214100000 -0300" stop="20210214130000 -0300" channel="CL: TVN FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210214130000 -0300" stop="20210214143000 -0300" channel="CL: TVN FHD">
+    <title lang="es">24 horas tarde</title>
+  </programme>
+  <programme start="20210214143000 -0300" stop="20210214161500 -0300" channel="CL: TVN FHD">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
+  </programme>
+  <programme start="20210214161500 -0300" stop="20210214171500 -0300" channel="CL: TVN FHD">
+    <title lang="es">Los tesoros de la ruta</title>
+  </programme>
+  <programme start="20210214171500 -0300" stop="20210214180000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Chile conectado 2020</title>
+  </programme>
+  <programme start="20210214180000 -0300" stop="20210214200000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Frutos del país</title>
+  </programme>
+  <programme start="20210214200000 -0300" stop="20210214210000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Sin parche</title>
+  </programme>
+  <programme start="20210214210000 -0300" stop="20210214223000 -0300" channel="CL: TVN FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210214223000 -0300" stop="20210214223500 -0300" channel="CL: TVN FHD">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210214223500 -0300" stop="20210215000000 -0300" channel="CL: TVN FHD">
+    <title lang="es">Festivales de selección</title>
+  </programme>
+  <programme start="20210214003000 -0300" stop="20210214010000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214010000 -0300" stop="20210214013000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210214013000 -0300" stop="20210214020000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210214020000 -0300" stop="20210214023000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214023000 -0300" stop="20210214030000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214030000 -0300" stop="20210214033000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210214033000 -0300" stop="20210214040000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214040000 -0300" stop="20210214043000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214043000 -0300" stop="20210214050000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214050000 -0300" stop="20210214053000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210214053000 -0300" stop="20210214060000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214060000 -0300" stop="20210214063000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210214063000 -0300" stop="20210214070000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214070000 -0300" stop="20210214073000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210214073000 -0300" stop="20210214080000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Rompeparadigma</title>
+  </programme>
+  <programme start="20210214080000 -0300" stop="20210214090000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210214090000 -0300" stop="20210214130000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias AM</title>
+  </programme>
+  <programme start="20210214130000 -0300" stop="20210214150000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210214150000 -0300" stop="20210214160000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210214160000 -0300" stop="20210214163000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214163000 -0300" stop="20210214170000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210214170000 -0300" stop="20210214173000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210214173000 -0300" stop="20210214180000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214180000 -0300" stop="20210214183000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210214183000 -0300" stop="20210214190000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210214190000 -0300" stop="20210214193000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210214193000 -0300" stop="20210214203000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210214203000 -0300" stop="20210214223000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210214223000 -0300" stop="20210214233000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210214233000 -0300" stop="20210215000000 -0300" channel="CNN Chile HD (CL)">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+</tv>
